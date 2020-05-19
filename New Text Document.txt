@@ -1,0 +1,4 @@
+<b><marquee style="color:Crimson;font-size:350%;font-family:Arial Rounded MT; line-height:1;text-shadow: 2px 2px #ff0000">Child Education Blog - <u><a href ="https://skchildrenfoundation.com/?page_id=1486" style="font-size:30px; font-family:Monotype Corsiva; color:grey;text-shadow: 2px 2px #669999
+">Click Here</a></u></marquee></b>
+
+<b><marquee style="color:White;font-size:350%;font-family:Monotype Corsiva; line-height:1">Placement Drive Coming Soon!!</marquee></b>
